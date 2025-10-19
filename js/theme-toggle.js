@@ -1,0 +1,1 @@
+(function(){const k='airesume-theme';const r=document.documentElement;const s=localStorage.getItem(k);if(s==='light'){r.classList.add('light')}window.__toggleTheme=()=>{r.classList.toggle('light');localStorage.setItem(k,r.classList.contains('light')?'light':'dark')}})();
