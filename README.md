@@ -1,0 +1,1 @@
+# AIResumeBuilder (Frontend-only, GitHub Pages Ready)\n\nSee index.html and builder.html. Deploy by pushing to GitHub and enabling GitHub Pages on main branch.
